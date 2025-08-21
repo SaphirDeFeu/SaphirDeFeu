@@ -1,34 +1,31 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/SaphirDeFeu/SaphirDeFeu/refs/heads/main/pfp.png"  />
+    <img height="150" src="https://raw.githubusercontent.com/SaphirDeFeu/SaphirDeFeu/refs/heads/main/pfp.png"  />
 </div>
-
-###
-
+  
 <div align="center">
   <a href="https://www.youtube.com/@saphirdefeu"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SaphirDeFeu.SaphirDeFeu&"  />
-</div>
+<h3 align="left">✨ About Me</h3>
 
 ###
 
-<h1 align="center">Bonjour 🇫🇷</h1>
+<p>
+  SaphirDeFeu, France 🇫🇷<br>
+  <br>
+  I'm a student who's focused on software development & engineering, and seeing the direction in which our world is heading right now means only one thing: reworking my whole collection of apps from instant messaging apps to code editors and passing by random passion projects to avoid censorship and data collection.<br>
+  This is also known as "basic right to privacy" in the heads of sane people.<br>
+  <br>
+  Certified Frenchman<br>
+  <br>
+  PS: If you like what I code... Just know it's definitely professionnally programmed and I *totally* write and run unit tests.
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  À Propos</h3>
-
-###
-
-<p align="left">SaphirDeFeu, France<br><br>- 💻 Étudiant<br>- 💯 C++<br><br>Certified Frenchman</p>
-
-###
-
-<h3 align="left">🛠 Langue & Outils</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
